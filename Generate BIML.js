@@ -17,6 +17,7 @@ importPackage(com.icc.systemmanager.util);
 importPackage(com.icc.systemmanager.vo);
 importPackage(com.icc.util);
 
+//get reference to mapping objects, MAPPING is global variable
 var mapping = MAPPING;
 
 function execute() {
